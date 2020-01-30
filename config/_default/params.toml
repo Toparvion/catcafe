@@ -86,7 +86,7 @@ phone = "+7 775 009 76 07"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ерубаева, 50", city = "Караганда", region = "CA", postcode = "100008", country = "Казахстан", country_code = "KZ"}
+address = {street = "Ерубаева", building = "50", city = "Караганда", region = "CA", postcode = "100008", country = "Казахстан", country_code = "KZ"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -97,7 +97,7 @@ directions = "Вход в цоколь перед 8-ым подъездом"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Вт-Пт 14:00-21:00", "Сб-Вс 12:00-21:00"]
+office_hours = ["Вт-Пт с 14:00 по 21:00", "Сб-Вс с 12:00 по 21:00", "Пн &mdash; санитарный день"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -176,7 +176,7 @@ plugins_js  = []
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-  ru = {order = ['postcode', 'country', 'city', 'street', 'building'], delimiters = [' ', ' ', ' ', ', ',]}
+  ru = {order = ['postcode', 'country', 'city', 'street', 'building'], delimiters = [' ', ' ', ' ', ', ', ' ', '']}
 
 # Configuration of publication pages.
 [publications]

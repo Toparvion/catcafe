@@ -6,10 +6,10 @@
 [ru]
   languageCode = "ru-ru"
   contentDir = "content/ru"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title = "У Рыжего Кота"
+  title = "У рыжего кота"
   copyright = "&copy; ОО &laquo;Дари Добро&raquo; {year}"
   [ru.params]
-    description = "Релакс в окружении животных, уютные посиделки и праздники"
+    description = "Уютные посиделки и праздники в окружении животных"
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "02.01.2006"
     #   Examples: "3:04 pm" or "15:04"
