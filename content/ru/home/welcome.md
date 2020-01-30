@@ -39,14 +39,14 @@ hero_media = "welcome-logo.png"
 [cta]
   url = "/#contact"
   label = "Прийти в гости"
-  icon_pack = "far"
+  icon_pack = "fas"
   icon = "cat"
 [cta_alt]
   url = "https://www.instagram.com/kotokafe_karaganda/"
   label = "Instagram"
 
 +++
-# Привет! :cat:
+# Привет! :wave:
 
 Социальный проект, созданный 13 июля 2018 года с целью изменения отношения
 к бездомным животным, создания центра любви, заботы, отдыха и милосердия.
