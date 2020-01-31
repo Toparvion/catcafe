@@ -7,7 +7,7 @@ weight = 20  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Пообщаться с животными"
-  content = ""
+  content = "Лучшее средство от стресса"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -32,7 +32,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Поучаствовать в мастер-классе"
-  content = ""
+  content = "Котики непременно помогут"
   align = "center"
 
   # overlay_color = "#555"  # An HTML color value.
@@ -41,7 +41,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Отметить детский день рождения"
-  content = ""
+  content = "С хвостатыми веселее"
   align = "center"
 
   # overlay_color = "#555"  # An HTML color value.
@@ -49,17 +49,17 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Почитать книги (буккроссинг)"
-  content = ""
+  title = "Почитать интересные книги"
+  content = "Забрать домой или принести свои"
   align = "center"
 
-  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/reading.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/books.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  # overlay_color = "#666"  # An HTML color value.
 
 [[item]]
   title = "Поиграть в настольные игры"
-  content = ""
+  content = "Больше компания &mdash; веселее игра"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
@@ -77,7 +77,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Устроить фотосессию"
-  content = "Свою или ребенка"
+  content = "Рядом с животными эмоции неповторимы"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
@@ -86,25 +86,43 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Устроить КЛАССную вечеринку"
-  content = ""
+  content = "В компании хвостатых друзей"
   align = "center"
 
-  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/class.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  # overlay_img = "slider/class.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
+
+[[item]]
+  title = "Устроить романтический вечер"
+  content = "В атмосфере нежности и любви к животным"
+  align = "center"
+
+  # overlay_img = "slider/class.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
+
+[[item]]
+  title = "Заглянуть в зоомагазин"
+  content = "Купить корм, лекарства, аксессуары"
+  align = "center"
+
+  # overlay_img = "slider/class.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
 
 [[item]]
   title = "Получить другие услуги"
-  content = "Зооюрист, анимал-терапия, зоопсихология и диетология"
+  content = "Ветеринара, зоопсихолога и диетолога"
   align = "center"
 
-  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "slider/play.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+  overlay_color = "#666"  # An HTML color value.
+  # overlay_img = "slider/play.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   cta_label = "Подробнее"
-  cta_url = "/#contact"
+  cta_url = "#services"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "list-ul"
 
 +++

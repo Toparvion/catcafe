@@ -5,22 +5,22 @@
 
 [[main]]
   name = "О нас"
-  url = "#about"
+  url = "#welcome"
   weight = 10
 
-[[main]]
-  name = "Посты"
-  url = "#posts"
-  weight = 20
+# [[main]]
+#   name = "Посты"
+#   url = "#posts"
+#   weight = 20
 
 [[main]]
   name = "Услуги"
-  url = "#projects"
+  url = "#services"
   weight = 30
 
 [[main]]
-  name = "Галерея"
-  url = "#featured"
+  name = "Проекты"
+  url = "#projects"
   weight = 40
 
 [[main]]

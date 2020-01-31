@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Контакты"
-subtitle = "И режим работы"
+subtitle = "Адрес и режим работы"
 
 # Automatically link email and phone?
 autolink = true
@@ -18,4 +18,4 @@ autolink = true
 email_form = 0
 +++
 
-Предварительная запись обязательна только на мероприятия.
+Предварительная запись обязательна **только** на мероприятия.
