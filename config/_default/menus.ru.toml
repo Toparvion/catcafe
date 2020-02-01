@@ -8,15 +8,15 @@
   url = "#welcome"
   weight = 10
 
-# [[main]]
-#   name = "Посты"
-#   url = "#posts"
-#   weight = 20
-
 [[main]]
   name = "Услуги"
   url = "#services"
   weight = 30
+
+[[main]]
+  name = "Прайс"
+  url = "price/"
+  weight = 35
 
 [[main]]
   name = "Проекты"
@@ -24,9 +24,24 @@
   weight = 40
 
 [[main]]
+  name = "Люди"
+  url = "#people"
+  weight = 50
+
+[[main]]
+  name = "Галерея"
+  url = "#gallery"
+  weight = 60
+
+[[main]]
+  name = "ЧаВо"
+  url = "faq/"
+  weight = 65
+
+[[main]]
   name = "Контакты"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

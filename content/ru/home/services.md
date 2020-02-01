@@ -19,6 +19,17 @@ date_format = " "
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Посещение котокафе"
+  url = ""
+  date_start = "2018-03-01"
+  description = """
+  Релакс в окружении животных, уютные посиделки и праздники. Предварительно, пожалуйста, ознакомтесь с [прайсом](price/) и [правилами посещения](terms/).
+  """
+
 [[item]]
   organization = "LeoShop.KZ"
   organization_url = "https://leoshop.kz"

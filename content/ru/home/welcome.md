@@ -44,7 +44,9 @@ hero_media = "welcome-logo.png"
 [cta_alt]
   url = "https://www.instagram.com/kotokafe_karaganda/"
   label = "Instagram"
-
+# Note. An optional note to show underneath the links.
+# [cta_note]
+#   label = '<a class="js-github-release" href="price/">Прайс</a>'
 +++
 # Привет! :wave:
 
