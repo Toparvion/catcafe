@@ -1,11 +1,11 @@
 ---
 title: Уроки доброты
-summary: Выездной проект для школ и садиков
+summary: Проведение уроков по гуманному обращению с животными в школах
 tags:
 - школа
 - уроки
 date: "2016-06-01T00:00:00Z"
-weight: 10
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

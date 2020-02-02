@@ -9,13 +9,13 @@ authors:
 weight: 30
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Хозяйка котокафе"
 
 # Organizations/Affiliations
-organizations:
+organizations: []
 #  - Председатель ОО "Дари Добро"
 # - name: Stanford University
 #  url: ""

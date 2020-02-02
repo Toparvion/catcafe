@@ -4,7 +4,7 @@ summary: Экологический проект по сбору и вторич
 tags:
 - экология
 date: "2018-06-01T00:00:00Z"
-weight: 20
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

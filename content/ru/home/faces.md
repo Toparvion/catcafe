@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Помощники хвостосотрудников"]
+  user_groups = ["Помощники хвостосотрудников", "Хвостосотрудники"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -41,7 +41,9 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
-
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "0px", "0"]
 [advanced]
  # Custom CSS.
  css_style = ""
