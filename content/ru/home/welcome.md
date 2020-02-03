@@ -55,5 +55,5 @@ hero_media = "welcome-logo.png"
 **Здесь вас ждут:**
 
 * 50 хвостатых котосотрудников
-* легендарный улыбчивый пёс [Смайл](http://bigasia.ru/content/news/eco/veterinary-iz-karagandy-vpervye-sdelali-sobake-titanovuyu-lapu/)
+* легендарный улыбчивый пёс [Смайл](/authors/dog-smile/)
 * 150 кв.м уюта и релакса
