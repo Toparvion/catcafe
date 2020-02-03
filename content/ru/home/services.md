@@ -39,9 +39,9 @@ date_format = " "
   description = "Всё для ваших домашних любимцев, зооаптека, грамотные консультации по диетологии животных"
 
 [[item]]
-  organization = "VetLife.KZ"
-  organization_url = "https://vetlife.kz"
-  title = "Ветеринарная клиника Vetife"
+  organization = "VetLife.kz Instagram"
+  organization_url = "https://www.instagram.com/vetlife.kz/"
+  title = "Ветеринарная клиника Vetlife"
   url = ""
   date_start = "2018-03-01"
   description = "Первичный осмотр, вакцинация, лечение, консультации"
