@@ -69,7 +69,7 @@ comments: false  # Show comments?
 
 ### Можно ли принести к вам кота на время отпуска?
 
-Нет. Вам следует обратиться в [котогостиницу](https://bookingcat.ru/cities/gostinitsa-dlya-koshek-karaganda/)
+Нет. Вам следует обратиться в [котогостиницу](https://bookingcat.ru/cities/gostinitsa-dlya-koshek-karaganda/).
 
 ### Посещение котокафе платное?
 
