@@ -97,7 +97,7 @@ directions = "Вход в цоколь перед 8-ым подъездом"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Вт-Пт - с 14:00 по 21:00", "Сб-Вс - с 12:00 по 21:00", "Пн - санитарный день"]
+office_hours = ["Пн-Пт - с 14:00 по 20:00", "Сб-Вс - с 12:00 по 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
