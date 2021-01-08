@@ -68,7 +68,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Подарить животному семью"
-  content = ""
+  content = "Это называется \"укотовление\""
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
